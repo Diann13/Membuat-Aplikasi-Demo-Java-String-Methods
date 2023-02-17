@@ -159,8 +159,10 @@ public class Java_String_Methods_Rahardian {
             iey1 = sc.nextLine();
             System.out.println("Hasil jika anda memasukan teks : " + iey.isEmpty());
             System.out.println("Hasil jika anda tidak memasukan teks : " + iey1.isEmpty());
+            System.out.println("ciee yang coppy :) ");
         } catch (Exception e) {
             System.out.println("Terjadi Exception: "+ e.getMessage());
+            
         }
     }
 }
