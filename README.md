@@ -187,9 +187,9 @@ Repository ini tetap saya pertahankan sebagai dokumentasi perjalanan belajar dan
 Software Engineering Student  
 Politeknik Indonusa Surakarta
 
-GitHub : https://github.com/USERNAME
+GitHub : https://github.com/Diann13
 
-LinkedIn : https://linkedin.com/in/USERNAME
+LinkedIn : https://www.linkedin.com/in/rahardianhutamasyamsuri
 
 ---
 
